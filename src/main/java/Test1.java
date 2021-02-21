@@ -24,7 +24,7 @@ public class Test1 {
         //To retain the common elements.
         al1.retainAll(al2);
         System.out.println(al1); //output - [A, B, C, D, F]
-        System.out.println("Hello Git - main");
+        System.out.println("Hello Git - main - change");
         System.out.println("Hello Git - branch");
     }
 }
